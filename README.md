@@ -1,6 +1,6 @@
 # DevelopersHub Corporation – AI/ML Engineering Internship
 
-**Intern Name:** Bano
+**Intern Name:** Ayesha Azhar
 **Due Date:** 26th June, 2026
 
 ## Tasks Completed
